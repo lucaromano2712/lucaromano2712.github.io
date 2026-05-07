@@ -486,13 +486,6 @@ ninja.data = [{
           window.open("mailto:%6C%75%63%61.%72%6F%6D%61%6E%6F%32%37%31%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
