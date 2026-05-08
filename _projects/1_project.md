@@ -2,7 +2,7 @@
 layout: page
 title: Expected Goals (xG) Analysis in Professional Soccer
 description: Master's thesis and research paper submitted to IJSSC
-img: assets/img/12.jpg
+img: assets/img/xG_cover.jpg
 importance: 1
 category: work
 ---
