@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Data-driven player scouting across the five major European leagues",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-serie-a-match-prediction-amp-bookmaker-analysis",
+          title: 'Serie A Match Prediction &amp;amp; Bookmaker Analysis',
+          description: "Predicting Serie A results and evaluating bookmaker odds with machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
