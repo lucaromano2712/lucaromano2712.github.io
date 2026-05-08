@@ -4,7 +4,7 @@ title: Football Scouting System
 description: Data-driven player scouting across the five major European leagues
 img: assets/img/11.jpg
 importance: 2
-category: data science
+category: work
 ---
 
 A Python-based scouting system built on StatsBomb open data that identifies 
