@@ -2,7 +2,7 @@
 layout: page
 title: Serie A Match Prediction & Bookmaker Analysis
 description: Predicting Serie A results and evaluating bookmaker odds with machine learning
-img: assets/img/7.jpg
+img: assets/img/MP_cover.jpg
 importance: 3
 category: fun
 ---
