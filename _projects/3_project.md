@@ -4,7 +4,7 @@ title: Serie A Match Prediction & Bookmaker Analysis
 description: Predicting Serie A results and evaluating bookmaker odds with machine learning
 img: assets/img/7.jpg
 importance: 3
-category: work
+category: fun
 ---
 
 A machine learning pipeline for predicting Serie A match outcomes and evaluating 
