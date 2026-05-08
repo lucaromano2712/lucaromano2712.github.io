@@ -416,14 +416,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-expected-goals-xg-analysis-in-professional-soccer",
+          title: 'Expected Goals (xG) Analysis in Professional Soccer',
+          description: "Master&#39;s thesis and research paper submitted to IJSSC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-football-scouting-system",
+          title: 'Football Scouting System',
+          description: "Data-driven player scouting across the five major European leagues",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
