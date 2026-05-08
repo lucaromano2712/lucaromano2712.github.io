@@ -2,7 +2,7 @@
 layout: page
 title: Football Scouting System
 description: Data-driven player scouting across the five major European leagues
-img: assets/img/11.jpg
+img: assets/img/Scouting_cover.jpg
 importance: 2
 category: work
 ---
